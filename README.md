@@ -1,3 +1,3 @@
 # testropo
 
-First INM fullStack development task
+First IBM fullStack development task
